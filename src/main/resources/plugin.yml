@@ -1,0 +1,14 @@
+name: Witchwars
+version: '${project.version}'
+main: me.tim.witchwars.Witchwars
+api-version: 1.19
+commands:
+  start:
+    description: Start the game.
+    usage: /<command>
+  lobby:
+    description: Set the game state to lobby
+    usage: /<command>
+  prelobby:
+    description:  Set the game state to prelobby
+    usage: /<command>

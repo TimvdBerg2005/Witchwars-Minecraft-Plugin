@@ -1,0 +1,261 @@
+witchwars:
+  RED:
+    witch:
+      coord1: 200
+      coord2: 100
+      coord3: 200
+      yaw: 0
+      pitch: 0
+    islandgenerator1:
+      coord1: 250
+      coord2: 100
+      coord3: 250
+      yaw: 0
+      pitch: 0
+    islandgenerator2:
+      coord1: 260
+      coord2: 110
+      coord3: 260
+      yaw: 0
+      pitch: 0
+    shop:
+      coord1: 200
+      coord2: 100
+      coord3: 205
+      yaw: 0
+      pitch: 0
+    respawn:
+      coord1: 0
+      coord2: 0
+      coord3: 0
+      yaw: 0
+      pitch: 0
+  BLUE:
+    witch:
+      coord1: 210
+      coord2: 100
+      coord3: 210
+      yaw: 1
+      pitch: 1
+    islandgenerator1:
+      coord1: 1
+      coord2: 1
+      coord3: 1
+      yaw: 0
+      pitch: 0
+    islandgenerator2:
+      coord1: 1
+      coord2: 1
+      coord3: 1
+      yaw: 0
+      pitch: 0
+    shop:
+      coord1: 210
+      coord2: 100
+      coord3: 215
+      yaw: 0
+      pitch: 0
+    respawn:
+      coord1: 0
+      coord2: 0
+      coord3: 0
+      yaw: 0
+      pitch: 0
+  GREEN:
+    witch:
+      coord1: 230
+      coord2: 100
+      coord3: 230
+      yaw: 1
+      pitch: 1
+    islandgenerator1:
+      coord1: 220
+      coord2: 100
+      coord3: 220
+      yaw: 0
+      pitch: 0
+    islandgenerator2:
+      coord1: 1
+      coord2: 1
+      coord3: 1
+      yaw: 0
+      pitch: 0
+    shop:
+      coord1: 230
+      coord2: 100
+      coord3: 235
+      yaw: 0
+      pitch: 0
+    respawn:
+      coord1: 0
+      coord2: 0
+      coord3: 0
+      yaw: 0
+      pitch: 0
+  YELLOW:
+    witch:
+      coord1: 240
+      coord2: 100
+      coord3: 240
+      yaw: 1
+      pitch: 1
+    islandgenerator1:
+      coord1: 1
+      coord2: 1
+      coord3: 1
+      yaw: 0
+      pitch: 0
+    islandgenerator2:
+      coord1: 1
+      coord2: 1
+      coord3: 1
+      yaw: 0
+      pitch: 0
+    shop:
+      coord1: 240
+      coord2: 100
+      coord3: 245
+      yaw: 0
+      pitch: 0
+    respawn:
+      coord1: 0
+      coord2: 0
+      coord3: 0
+      yaw: 0
+      pitch: 0
+  AQUA:
+    witch:
+      coord1: 190
+      coord2: 100
+      coord3: 190
+      yaw: 1
+      pitch: 1
+    islandgenerator1:
+      coord1: 1
+      coord2: 1
+      coord3: 1
+      yaw: 0
+      pitch: 0
+    islandgenerator2:
+      coord1: 1
+      coord2: 1
+      coord3: 1
+      yaw: 0
+      pitch: 0
+    shop:
+      coord1: 190
+      coord2: 100
+      coord3: 195
+      yaw: 0
+      pitch: 0
+    respawn:
+      coord1: 0
+      coord2: 0
+      coord3: 0
+      yaw: 0
+      pitch: 0
+  WHITE:
+    witch:
+      coord1: 180
+      coord2: 100
+      coord3: 180
+      yaw: 1
+      pitch: 1
+    islandgenerator1:
+      coord1: 1
+      coord2: 1
+      coord3: 1
+      yaw: 0
+      pitch: 0
+    islandgenerator2:
+      coord1: 1
+      coord2: 1
+      coord3: 1
+      yaw: 0
+      pitch: 0
+    shop:
+      coord1: 180
+      coord2: 100
+      coord3: 185
+      yaw: 0
+      pitch: 0
+    respawn:
+      coord1: 0
+      coord2: 0
+      coord3: 0
+      yaw: 0
+      pitch: 0
+  PINK:
+    witch:
+      coord1: 170
+      coord2: 100
+      coord3: 170
+      yaw: 1
+      pitch: 1
+    islandgenerator1:
+      coord1: 1
+      coord2: 1
+      coord3: 1
+      yaw: 0
+      pitch: 0
+    islandgenerator2:
+      coord1: 1
+      coord2: 1
+      coord3: 1
+      yaw: 0
+      pitch: 0
+    shop:
+      coord1: 170
+      coord2: 100
+      coord3: 175
+      yaw: 0
+      pitch: 0
+    respawn:
+      coord1: 0
+      coord2: 0
+      coord3: 0
+      yaw: 0
+      pitch: 0
+  GRAY:
+    witch:
+      coord1: 160
+      coord2: 100
+      coord3: 160
+      yaw: 1
+      pitch: 1
+    islandgenerator1:
+      coord1: 1
+      coord2: 1
+      coord3: 1
+      yaw: 0
+      pitch: 0
+    islandgenerator2:
+      coord1: 1
+      coord2: 1
+      coord3: 1
+      yaw: 0
+      pitch: 0
+    shop:
+      coord1: 160
+      coord2: 100
+      coord3: 165
+      yaw: 0
+      pitch: 0
+    respawn:
+      coord1: 0
+      coord2: 0
+      coord3: 0
+      yaw: 0
+      pitch: 0
+  shardgenerator1:
+    coord1: 1
+    coord2: 1
+    coord3: 1
+    yaw: 0
+    pitch: 0
+  shardgenerator2:
+    coord1: 1
+    coord2: 1
+    coord3: 1
+    yaw: 0
+    pitch: 0
